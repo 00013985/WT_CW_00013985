@@ -10,3 +10,5 @@ As the current agricultural revolution unfolds, digitalization will become the c
 Taking a ground-up approach, our technology enables growers to make more informed, efficient, and scientific decisions. 
 We make agriculture predictable and optimizable across the entire growth cycle. 
 Our technology advances agricultural productivity by helping growers do more with fewer resources.
+
+https://wtcw00013985.netlify.app/
